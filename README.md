@@ -25,8 +25,7 @@ The Program class is the entry point of the application. It creates an instance 
 
 Overall, this project demonstrates a basic inventory management system with the ability to add items to a pack and check the constraints of the pack.
         
-        ![image](https://github.com/gourav263587/IOT1026-Assignment-3/assets/133707861/93c5195f-7163-49ff-907a-9eb1f79b3f7b)
-
+![image](https://github.com/gourav263587/IOT1026-Assignment-3/assets/133707861/9aee6459-7cbd-42f1-9f56-a0acfa9b0cad)
         
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
