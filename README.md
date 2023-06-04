@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/ci.yml">
-    <img src="[https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/ci.yml/badge.svg](https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/formatting.yml/badge.svg)"/>
+    <img src="https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/ci.yml/badge.svg"/>
     </a>
 	<a href="https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/formatting.yml">
     <img src="https://github.com/gourav263587/IOT1026-Assignment-3/actions/workflows/formatting.yml/badge.svg"/>
